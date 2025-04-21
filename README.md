@@ -1,2 +1,16 @@
-# portfolio
-Hello, I'm Adetops. I'm a developer with a passion for innovation and creativity. Welcome to my portfolio, where I showcase my projects, skills, and experiences. Let's connect and explore opportunities together!
+# Adetops Nigeria Limited
+
+**Company Name:** Adetops Nigeria Limited
+
+**Name:** Adetops
+
+**Contact Information:**
+
+- Phone: 09045218968
+- Email: abitech62@gmail.com
+- Address: Olanrewaju area, Saki, Oyo State
+- Domain: [adetops.com.ng](http://adetops.com.ng)
+
+**About:**
+
+We are a web development company in Nigeria, also rendering services such as IT services, internet services, networking, computer service, educational consultancy, and more.
